@@ -55,6 +55,10 @@ This step we will use the fields from the side bar to create our visualization a
 As you can see I break down the top 5 neighborhoods in New york , I included the top 10 zip codes around those cities , and the prices of airbnb rooms per night dependent on how long a customers is planning on staying. And included the property type of airbnb from houses , regular apartments , also included lofts and townhouses. Lastly I just included other panels because I was bored :).
 This is what your final work will look like, of course everyones will be different dependent on their preference of their dashboard. 
 
+
+
+<h8>Extra SPl syntax</h8>
+
 <br>
 <img src=https://imgur.com/jbVtAyw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </br>
