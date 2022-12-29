@@ -57,11 +57,15 @@ This is what your final work will look like, of course everyones will be differe
 
 
 
-<h8>Extra SPl syntax</h8>
 
 <br>
 <img src=https://imgur.com/jbVtAyw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </br>
+
+
+
+
+<h8>Extra SPl syntax</h8>
 
 
 
